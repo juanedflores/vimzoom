@@ -13,7 +13,7 @@ function! Zoom()
     if g:vimzoom#no_bar == 1
       set showtabline=0
     endif
-    let t:zoomed = 'Z'
+    let t:zoomed = 'Zoomed'
   endif
 endfunction
 
